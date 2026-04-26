@@ -12,10 +12,10 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on: Retrieval Augmented Generation & GenAI Development
-- 🌱 I’m learning: DevOps, Cloud Native Architecture
+- 🔭 I’m currently working on: GenAI Development & AI Agent Engineering
+- 🌱 I’m learning: AI Engineering, DevOps, Cloud Native Architecture
 - 🐱 Cat obsessed
-- 📫 Reach me at: michael_hoon@mymail.sutd.edu.sg
+- 📫 Reach me at: michaelhoon@gmail.com
 <p>
    <a href="https://michaelhoon.dev/" ><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
